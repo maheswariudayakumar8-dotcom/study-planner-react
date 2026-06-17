@@ -37,4 +37,4 @@ https://github.com/maheswariudayakumar8-dotcom/study-planner-react
 
 ## Author
 
-Maheswari Udayakumar
+Bhavani U
