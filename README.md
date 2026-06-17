@@ -38,3 +38,7 @@ https://github.com/maheswariudayakumar8-dotcom/study-planner-react
 ## Author
 
 Bhavani U
+
+## Screenshot
+
+![Study Planner Screenshot](study-planner-home.png)
